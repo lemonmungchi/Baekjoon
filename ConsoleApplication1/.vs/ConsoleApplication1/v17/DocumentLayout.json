@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}"
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "b8.cpp",
-              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b8.cpp",
-              "RelativeDocumentMoniker": "b8.cpp",
-              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b8.cpp",
-              "RelativeToolTip": "b8.cpp",
-              "ViewState": "AQIAABYAAAAAAAAAAAAowDwAAAABAAAA",
+              "Title": "b9.cpp",
+              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b9.cpp",
+              "RelativeDocumentMoniker": "b9.cpp",
+              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b9.cpp",
+              "RelativeToolTip": "b9.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowC4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-29T02:15:57.504Z",
+              "WhenOpened": "2024-08-29T14:19:16.564Z",
               "EditorCaption": ""
             },
             {
