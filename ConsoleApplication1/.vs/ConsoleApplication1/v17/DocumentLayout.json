@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:b19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:b21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "b23.cpp",
+              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b23.cpp",
+              "RelativeDocumentMoniker": "b23.cpp",
+              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b23.cpp",
+              "RelativeToolTip": "b23.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T02:54:16.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "b22.cpp",
+              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b22.cpp",
+              "RelativeDocumentMoniker": "b22.cpp",
+              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b22.cpp",
+              "RelativeToolTip": "b22.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T02:54:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "b21.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b21.cpp",
               "RelativeDocumentMoniker": "b21.cpp",
@@ -31,40 +61,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-10T14:56:07.293Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "d7da9646-cd29-4085-8396-29bef6f522b7",
-        "Display": 1,
-        "X": 1120,
-        "Y": 53,
-        "Width": 1606,
-        "Height": 793,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "b19.cpp",
-              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b19.cpp",
-              "RelativeDocumentMoniker": "b19.cpp",
-              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b19.cpp",
-              "RelativeToolTip": "b19.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T14:55:53.886Z",
               "EditorCaption": ""
             }
           ]
