@@ -367,14 +367,15 @@ void Parse(char* data, int* addr) {
 
 // 문자열의 패리티를 계산하는 함수 (L0_data)
 bool getParity(const char* data) {
-	bool parity = 0;
+	bool parity = 0;  // 패리티 값, 초기에는 0으로 설정
 	for (int i = 0; i < strlen(data); i++) {
-		unsigned char byte = data[i];
+		unsigned char byte = data[i];  // 각 문자를 바이트로 처리
 		// 바이트 내 1의 개수를 세서 패리티 계산
 		while (byte) {
-			parity = !parity;
-			byte &= (byte - 1);  // 가장 오른쪽 1을 제거
+			parity = !parity;  // 1을 찾을 때마다 패리티 비트를 반전시킴
+			byte &= (byte - 1);  // 가장 오른쪽에 있는 1을 제거
 		}
 	}
 	return parity;
 }
+
