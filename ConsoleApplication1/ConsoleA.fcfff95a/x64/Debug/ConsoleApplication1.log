@@ -1,2 +1,6 @@
-﻿  b35.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\khc11\OneDrive\바탕 화면\공부\Baekjoon\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿  b37.cpp
+C:\Users\khc11\OneDrive\바탕 화면\공부\Baekjoon\ConsoleApplication1\b37.cpp(19,9): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string *'입니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\Baekjoon\ConsoleApplication1\b37.cpp(28,9): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string *'입니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\Baekjoon\ConsoleApplication1\b37.cpp(14,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\khc11\OneDrive\바탕 화면\공부\Baekjoon\ConsoleApplication1\b37.cpp(19,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\khc11\OneDrive\바탕 화면\공부\Baekjoon\ConsoleApplication1\b37.cpp(28,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
