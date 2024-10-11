@@ -18,5 +18,8 @@
     <ClCompile Include="b53.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="b54.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
