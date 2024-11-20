@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b89_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b89_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b89.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b89.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b84.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -41,32 +37,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "b89_1.cpp",
-              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b89_1.cpp",
-              "RelativeDocumentMoniker": "b89_1.cpp",
-              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b89_1.cpp",
-              "RelativeToolTip": "b89_1.cpp",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Title": "b89.cpp",
+              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b89.cpp",
+              "RelativeDocumentMoniker": "b89.cpp",
+              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b89.cpp",
+              "RelativeToolTip": "b89.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-19T13:25:12.905Z",
+              "WhenOpened": "2024-11-20T11:21:26.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "b88.cpp",
-              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b88.cpp",
-              "RelativeDocumentMoniker": "b88.cpp",
-              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b88.cpp",
-              "RelativeToolTip": "b88.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvwoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-19T12:57:24.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "b84.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b84.cpp",
               "RelativeDocumentMoniker": "b84.cpp",
@@ -78,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "b83.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b83.cpp",
               "RelativeDocumentMoniker": "b83.cpp",
@@ -90,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "b80.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b80.cpp",
               "RelativeDocumentMoniker": "b80.cpp",
@@ -102,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "QuestState.cs",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Project\\ProjectB\\Assets\\Scripts\\Quest\\QuestState.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Project\\ProjectB\\Assets\\Scripts\\Quest\\QuestState.cs",
@@ -114,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "algorithm",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\include\\algorithm",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\include\\algorithm",
