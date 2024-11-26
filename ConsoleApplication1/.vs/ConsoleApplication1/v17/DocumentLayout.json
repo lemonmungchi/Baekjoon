@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b94.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b94.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b95.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCFFF95A-F542-4123-918B-FCB3311AF59D}|ConsoleApplication1.vcxproj|solutionrelative:b95.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b84.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -37,14 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "b94.cpp",
-              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b94.cpp",
-              "RelativeDocumentMoniker": "b94.cpp",
-              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b94.cpp",
-              "RelativeToolTip": "b94.cpp",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAwDEAAAABAAAA",
+              "Title": "b95.cpp",
+              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b95.cpp",
+              "RelativeDocumentMoniker": "b95.cpp",
+              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\Baekjoon\\ConsoleApplication1\\b95.cpp",
+              "RelativeToolTip": "b95.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-25T01:13:40.164Z",
+              "WhenOpened": "2024-11-26T01:46:23.254Z",
               "EditorCaption": ""
             },
             {
