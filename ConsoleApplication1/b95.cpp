@@ -4,7 +4,7 @@
 
 using namespace std;
 
-
+//왼쪽, 오른쪽, 앞, 뒤
 int dx[4] = { 0,0,-1,1 };
 int dy[4] = { -1,1,0,0 };
 
